@@ -1,10 +1,13 @@
 
-Game Play dari Game "Manen Apel"
+<b>Game Play dari Game "Manen Apel"</b>
 
 Game ini dimainkan dengan menggerakkan keranjang ke kanan dan ke kiri menggunakan keyboard right dan left.
 Ketika keranjang menangkap buah apel maka akan mendapatkan nilai 10
 Ketika keranjang menangkap buah selain buah apel maka akan dikurangi nilainya 5
 Permainan akan selesai (Game Over) apabila ada buah apel yang jatuh ke tanah
+
+
+<b>Resources</b>
 
 Music Backsound
 https://www.youtube.com/watch?v=iqGiv9eBdWY
